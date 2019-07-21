@@ -18,9 +18,9 @@ Clone the repo.
 
 Run the main file in a browser:
 
-	```
-	start/main.js
-	```
+```
+start/main.js
+```
 
 ## Deployment
 
